@@ -6,7 +6,6 @@
 |---|---|
 | **Module** | SIS401 - Smart Integrated Systems (Tutor: Darshan Subedi) |
 | **Group** | Group 3 |
-| **Repository** | ______________________ |
 | **Date** | 27 October 2026 |
 | **Sensors** | DHT22 (temperature + humidity), LDR light-sensor module (analog) |
 | **Broker** | Mosquitto 2.0.21 on Raspberry Pi 4 |
